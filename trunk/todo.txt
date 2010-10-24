@@ -1,0 +1,5 @@
+== TODO ==
+
+- Getter/Setter fuer Klassenvariablen
+- Umstellen der Klassenvariablen auf protected/private
+- Default Module Bug fixen -> soll nicht jedes mal started werden
